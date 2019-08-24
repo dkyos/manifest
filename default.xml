@@ -1,12 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>                                           
-<manifest>                                                                       
-    <remote                                                                      
-        name="origin"                                                            
-        fetch="https://github.com/"/>                                          
+<?xml version="1.0" encoding="UTF-8"?> 
+<manifest> 
+    <remote
+        name="origin"
+        fetch="https://dkyos@github.com/"/>
 
-    <default revision="master" remote="origin"/>                                 
-                                                                                 
-    <project                                                                     
-        path="test/dev-env"                                                              
-        name="dev-env"/>                                                  
+    <default revision="master" remote="origin"/> 
+
+    <project 
+        path="test/dev-env"
+        name="dev-env"/>
+
 </manifest> 
