@@ -21,6 +21,9 @@
     <project 
         path="public/docker-devops"
         name="dkyos/docker-devops"/>
+    <project 
+        path="manifest"
+        name="dkyos/manifest"/>
 
     <project 
         path="private/score"
