@@ -7,7 +7,7 @@
     <default revision="master" remote="origin"/> 
 
     <project 
-        path="dkyos/dev-env"
-        name="dev-env"/>
+        path="dev-env"
+        name="dkyos/dev-env"/>
 
 </manifest> 
