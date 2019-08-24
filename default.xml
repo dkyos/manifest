@@ -7,6 +7,6 @@
     <default revision="master" remote="origin"/>                                 
                                                                                  
     <project                                                                     
-        path="dev-env"                                                              
-        name="test/dev-env"/>                                                  
+        path="test/dev-env"                                                              
+        name="dev-env"/>                                                  
 </manifest> 
