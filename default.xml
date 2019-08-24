@@ -9,5 +9,21 @@
     <project 
         path="public/dev-env"
         name="dkyos/dev-env"/>
+    <project 
+        path="public/algorithm"
+        name="dkyos/algorithm"/>
+    <project 
+        path="public/data-analysis"
+        name="dkyos/data-analysis"/>
+    <project 
+        path="public/dev-samples"
+        name="dkyos/dev-samples"/>
+    <project 
+        path="public/docker-devops"
+        name="dkyos/docker-devops"/>
+
+    <project 
+        path="private/score"
+        name="dkyos/score"/>
 
 </manifest> 
