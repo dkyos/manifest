@@ -2,12 +2,12 @@
 <manifest> 
     <remote
         name="origin"
-        fetch="https://dkyos@github.com/"/>
+        fetch="https://github.com/"/>
 
     <default revision="master" remote="origin"/> 
 
     <project 
-        path="test/dev-env"
+        path="dkyos/dev-env"
         name="dev-env"/>
 
 </manifest> 
