@@ -22,7 +22,7 @@
         path="public/docker-devops"
         name="dkyos/docker-devops"/>
     <project 
-        path="manifest"
+        path="public/manifest"
         name="dkyos/manifest"/>
 
     <project 
